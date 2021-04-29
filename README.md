@@ -1,6 +1,8 @@
 # jarvis
 JARVIS LIKE DESKTOP VOICE ASSISTANT USING PYTHON
 
+![] lib/gui.jpg
+
 # STEPS TO PERFORM
 1.First you need to have Python 3.9.2 64 bit install on your computer
 2.Than you need to open command line interface inthe project folder
