@@ -1,9 +1,8 @@
-# jarvis
-JARVIS LIKE DESKTOP VOICE ASSISTANT USING PYTHON
+# J.A.R.V.I.S. LIKE DESKTOP VOICE ASSISTANT USING PYTHON
 
-![] lib/gui.jpg
+![](lib/gui.jpg)
 
-# STEPS TO PERFORM
+## STEPS TO PERFORM
 1.First you need to have Python 3.9.2 64 bit install on your computer
 2.Than you need to open command line interface inthe project folder
 3.After that you need to create python virtual environment onthe same directory
