@@ -2,7 +2,7 @@
 ## USING Python 3.9 & PyQt5 framework for GUI
 
 ![](lib/gui.jpg)
-
+![](https://youtu.be/0YZgIWJo7n4)
 ## STEPS TO PERFORM
 ### 1.First you need to have Python 3.9.2 64 bit install on your computer
 ### 2.Than you need to open command line interface in the project folder
