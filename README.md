@@ -1,4 +1,5 @@
-# J.A.R.V.I.S. LIKE DVA USING PYTHON
+# J.A.R.V.I.S. LIKE DVA 
+## USING Python 3.9 & PyQt5 framework for GUI
 
 ![](lib/gui.jpg)
 
