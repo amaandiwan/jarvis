@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="redc">
+    <file>lib/tuse.png</file>
+    <file>lib/exit.png</file>
+    <file>lib/dashboard.png</file>
+    <file>lib/gifloader.gif</file>
+    <file>lib/army.png</file>
+    <file>lib/pause_button.png</file>
+    <file>lib/power_button.png</file>
+    <file>lib/restart_button.png</file>
+    <file>lib/panel.png</file>
+    <file>lib/close.png</file>
+    <file>lib/mini.png</file>
+    <file>lib/mini40.png</file>
+    <file>lib/redclose.png</file>
+  </qresource>
+</RCC>
