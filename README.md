@@ -8,6 +8,9 @@
 #### code for creating virtual enviroment: 
     python -m venv jarvisenv
 ### 4.Than you need to activate virtual environment : 
-    jarvisenv/scripts/activate
+    jarvisenv\scripts\activate
 ### 5.Enter requirements.bat it will automatically install all the python library
+    cd jarvisenv
+    requirements.bat
 ### 6.Last step enter run.py (it will run the python file)
+    run.py
